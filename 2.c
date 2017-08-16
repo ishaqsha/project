@@ -6,4 +6,5 @@ int main()
 	printf("");
 	printf("hasjdlfchasldfh");
 	help me
+	printf(""hi shaikh");
 }
