@@ -11,6 +11,7 @@ int main()
 	a
 	b
 	c
+	"shaikh ishaque"
 
 	yasir
 	nl
