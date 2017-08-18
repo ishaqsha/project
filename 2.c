@@ -9,6 +9,8 @@ int main()
 	printf(""hi shaikh");
 	isha
 	a
+	votarytech
+	softech solution
 	b
 	ffffffffffffffffffffffffffffffff
 	c
