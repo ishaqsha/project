@@ -7,4 +7,8 @@ int main()
 	printf("hasjdlfchasldfh");
 	help me
 	printf(""hi shaikh");
+	isha
+	a
+	b
+	c
 }
