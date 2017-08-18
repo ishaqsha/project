@@ -11,4 +11,7 @@ int main()
 	a
 	b
 	c
+
+	yasir
+	nl
 }
