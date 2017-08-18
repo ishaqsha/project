@@ -14,6 +14,10 @@ int main()
 
 	yasir
 	nl
+
 	IIIIIIIIIIIIIIIIIIII
 	IIIIIIIIIIIII
+
+	sssssssssssssssssssssssssssss
+	kkkkkkkkkkkkkkkkkkkkkkkkk
 }
